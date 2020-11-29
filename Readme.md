@@ -22,9 +22,10 @@ I am currently working on Neural Rendering, Neural Scene editing using Computer 
 :large_blue_circle: [Twitter](https://twitter.com/Avani97620444) <br>
 :email:  avani17101@gmail.com, avani.gupta@research.iiit.ac.in
  
-Have fun exploring my projects. :sunglasses:
+Have fun exploring my projects. :sunglasses: <br>
+Some stats :wink:
 
-![Avani's github stats](https://github-readme-stats.vercel.app/api?username=avani17101&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=avani17101" alt="avani17101" /> </p>
-
+![Avani's github stats](https://github-readme-stats.vercel.app/api?username=avani17101&count_private=true&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avani17101&layout=compact)](https://github.com/avani17101/github-readme-stats)
