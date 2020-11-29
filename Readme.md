@@ -25,7 +25,6 @@ I am currently working on Neural Rendering, Neural Scene editing using Computer 
 Have fun exploring my projects. :sunglasses: <br>
 Some stats :wink:
 
+![Avani's github stats](https://github-readme-stats.vercel.app/api?username=avani17101&count_private=true&show_icons=true&theme=radical)
 
-![Avani's github stats](https://github-readme-stats.vercel.app/api?username=avani17101&count_private=true&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avani17101&layout=compact)](https://github.com/avani17101/github-readme-stats)
