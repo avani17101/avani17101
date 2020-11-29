@@ -24,4 +24,7 @@ I am currently working on Neural Rendering, Neural Scene editing using Computer 
  
 Have fun exploring my projects. :sunglasses:
 
+![Avani's github stats](https://github-readme-stats.vercel.app/api?username=avani17101&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
+
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=avani17101" alt="avani17101" /> </p>
 
