@@ -1,3 +1,5 @@
+![ViewCount](https://views.whatilearened.today/views/github/avani17101/avani17101.svg?cache=remove) <br>
+
 Hello there 👋,
 I am Avani. Welcome to my github :stars:
 
