@@ -26,7 +26,7 @@ I am currently working on Neural Rendering, Neural Scene editing using Computer 
 :email:  avani17101@gmail.com, avani.gupta@research.iiit.ac.in
 
  
-Do checkout my latest project for TreeHacks(Hackathon by Stanford) [DataSynth](https://devpost.com/software/datasynthh)
+Do checkout my latest project for TreeHacks(Hackathon by Stanford) [DataSynth](https://devpost.com/software/datasynthh) <br>
 Have fun exploring my projects. :sunglasses: <br>
 Some stats :wink:
 
