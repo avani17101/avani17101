@@ -24,7 +24,9 @@ I am currently working on Neural Rendering, Neural Scene editing using Computer 
 :cyclone: [Website](https://avani17101.github.io/) <br>
 :large_blue_circle: [Twitter](https://twitter.com/Avani_Gupta__) <br>
 :email:  avani17101@gmail.com, avani.gupta@research.iiit.ac.in
+
  
+Do checkout my latest project for TreeHacks(Hackathon by Stanford) [DataSynth](https://devpost.com/software/datasynthh)
 Have fun exploring my projects. :sunglasses: <br>
 Some stats :wink:
 
