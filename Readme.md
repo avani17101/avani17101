@@ -6,6 +6,7 @@ I am Avani. Welcome to my github :stars:
 :information_desk_person: **About me**
 I am a CSE Undergrad and researcher at CVIT, IIIT Hyderabad :mortar_board: <br>
 I am currently working on Neural Rendering, Neural Scene editing using Computer graphics and Deep Learning under Professor PJ Narayan. 
+I am also looking towards interpretability of DL models, Self Supervised Learning, IID kind of problems and temporal human-reconstruction. 
 
 
 :dart: **My skills**
@@ -17,6 +18,11 @@ I am currently working on Neural Rendering, Neural Scene editing using Computer 
 * Artificial Intelligence
 * Web and app developemnt (Flask, Django, Flutter, SQL, MERN stack, Javascript and more..)
 * Fine arts too :wink:
+
+Some of presentations I did as part of 3D Vision Induction workshop at CVIT: <br>
+[NeRF: Neural Radiance Fields](https://docs.google.com/presentation/d/1Sx_VBF1rCdh_pgvlfYM_I-OCFr76sIRMWaPxqDEBzNk/edit?usp=sharing) <br>
+[GANs](https://github.com/avani17101/ML-workshop-GANs) (Felicity's ML workshop and 3D Vision Workshop)
+
 
  I am passionate on building real-life applications for solving problems faced by people worldwide. 
  
