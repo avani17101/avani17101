@@ -4,7 +4,7 @@ Hello there 👋,
 I am Avani. Welcome to my github :stars:
 
 :information_desk_person: **About me**
-Please refer to my [Website](https://avani17101.github.io/) <br> for updated information about me.
+Please refer to my [Website](https://avani17101.github.io/) for updated information about me.
 
 
 :dart: **My skills**
