@@ -4,7 +4,7 @@ Hello there 👋,
 I am Avani. Welcome to my github :stars:
 
 :information_desk_person: **About me**
-I am a Final Year Masters Student at IIIT Hyderabad. I am doing my masters under Prof. P J Narayanan in ML interpretability applied over Computer Vision and Graphics. I completed my B.Tech in Computer Science from IIIT Hyderabad in 2021. I have worked with Reinforcement Learning in Business Process Automations (in my Internship at IBM Research). I have worked in loose clothing in 3D human body in Independent Study with Prof. Avinash Sharma. I have also worked in NLP problems like scientific papers summarization, NER, Fake News Detection etc. I am proficient in Deep Learning, Computer Vision, Reinforcement Learning, Natural Language Processing, web-dev, app-dev with demonstrated history of work. I am keen over learning new things and working on problems where I can make an impact.
+Please refer to my website :cyclone: [Website](https://avani17101.github.io/) <br> for updated information about me.
 
 
 :dart: **My skills**
