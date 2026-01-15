@@ -19,8 +19,3 @@ Some of presentations I did as part of 3D Vision Induction workshop at CVIT: <br
 :email:  avani17101@gmail.com
 
 Have fun exploring my projects. :sunglasses: <br>
-Some stats :wink:
-
-![Avani's github stats](https://github-readme-stats.vercel.app/api?username=avani17101&count_private=true&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avani17101&layout=compact)](https://github.com/avani17101/github-readme-stats)
