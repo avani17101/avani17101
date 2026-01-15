@@ -16,7 +16,7 @@ Some of presentations I did as part of 3D Vision Induction workshop at CVIT: <br
 📫 [Linkedin](https://www.linkedin.com/in/avani17101-gupta/) <br>
 :cyclone: [Website](https://avani17101.github.io/) <br>
 :large_blue_circle: [Twitter](https://twitter.com/Avani_Gupta__) <br>
-:email:  avani17101@gmail.com, avani.gupta@research.iiit.ac.in
+:email:  avani17101@gmail.com
 
 Have fun exploring my projects. :sunglasses: <br>
 Some stats :wink:
